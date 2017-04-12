@@ -1,7 +1,7 @@
 # Pascal-Interpreter
 
-This is a pascal interpreter I developed from scratch using Python language. The input is a pascal code and this interpreter 
-evaluates the arithmetic expressions, variables declaration, type-chacking, symbol table management, nested procedures and more.
+This is a pascal interpreter from scratch using Python language. The input is a pascal code file and this interpreter 
+evaluates the arithmetic expressions, variables declaration, type-chacking, symbol table management, nested procedures, Pascal program syntax and more.
 
 The properties of this interpreter are - 
 1. It does a lexical analysis (or scans or tokenizes) of the input file to generate tokens, one at a time.
