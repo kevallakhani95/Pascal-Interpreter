@@ -40,5 +40,10 @@ The symbol Table management is an interestinng concept that help maintain the co
 The grammer stated above will help you understand how the code is analyzed and is evaluated. 
 
 To see this in action - 
-Run the command prompt(windows) or Terminal(Linux shell) and navigate to python directory where the above given files are stored. 
+https://cloud.githubusercontent.com/assets/22873739/24975598/3c81b59a-1f94-11e7-8872-7ebb1139350c.png
 
+Run the file as it is given in the screenshot above.
+
+Enjoy :D 
+
+P.S. - More commits coming soon.
