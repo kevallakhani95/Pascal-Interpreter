@@ -43,7 +43,7 @@ See this in action -
 
 ![Demo](https://cloud.githubusercontent.com/assets/22873739/24975598/3c81b59a-1f94-11e7-8872-7ebb1139350c.png)
 
-Run the file as it is given in the screenshot above. What you will see here is the Symbol Table content and Global Memory scope of the program and the value of each variable mentioned in the program.
+Run the file as it is given in the screenshot above. What you will see here is the Symbol Table content and Global Memory scope of the program and the final value of each variable after evaluating arithmetic expressions (if any).
 
 Enjoy :D 
 
