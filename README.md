@@ -8,7 +8,7 @@ The properties of this interpreter are -
 2. It generates reserved keyword tokens along with declared tokens of various types. 
 3. It uses a recursive-descent parser approach to evaluate and generate a tree from the lexer object.
 4. It also allows comments in the pascal code file for better implementation.
-5. Uses Abstract-Syntax tree (AST) as an intermidiate representation (IR).
+5. Uses Abstract-Syntax tree (AST) as an intermediate representation (IR).
 6. Implements a NodeVisitor class as a walker class for the AST.
 7. Implements a Symbol Table to define variables and built in type symbols. 
 8. Implements define and lookup methods in the symbol table to define a variable and lookup that variable for type-checking and maintain the integrity of the code.
